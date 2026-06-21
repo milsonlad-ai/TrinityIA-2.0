@@ -1,0 +1,74 @@
+[
+  {
+    "prompt": "o que entendes sobre o reino animal?",
+    "response": {
+      "prompt": "o que entendes sobre o reino animal?",
+      "agents": {
+        "programming": "Codigo sugerido para: \"o que entendes sobre o reino animal?\"",
+        "creative": "Ideias criativas para: \"o que entendes sobre o reino animal?\"",
+        "business": "Sugestoes de negocio para: \"o que entendes sobre o reino animal?\"",
+        "multimedia": "Ideia de video/audio para: \"o que entendes sobre o reino animal?\"",
+        "search": "Nenhum resumo disponivel no momento.",
+        "history": "Contexto historico para: \"o que entendes sobre o reino animal?\""
+      },
+      "timestamp": "2026-06-21T17:24:27.863Z"
+    },
+    "date": "2026-06-21T17:24:27.889Z"
+  },
+  {
+    "prompt": "o que são seres humanos?",
+    "response": {
+      "prompt": "o que são seres humanos?",
+      "agents": {
+        "programming": "Codigo sugerido para: \"o que são seres humanos?\"",
+        "creative": "Ideias criativas para: \"o que são seres humanos?\"",
+        "business": "Sugestoes de negocio para: \"o que são seres humanos?\"",
+        "multimedia": "Ideia de video/audio para: \"o que são seres humanos?\"",
+        "search": "Humano é a única espécie do gênero Homo ainda viva e o primata mais abundante e difundido da Terra, caracterizado pelo bipedalismo e por cérebro grande, o que permitiu o desenvolvimento de ferramentas, culturas e linguagens avançadas. Os humanos tendem a viver em estruturas sociais complexas compostas por muitos grupos cooperantes e concorrentes, desde famílias e redes de parentesco até Estados políticos. As interações sociais entre os humanos estabeleceram uma ampla variedade de valores, normas e rituais, que fortalecem a sociedade humana. A curiosidade e o desejo humano de compreender e influenciar o meio ambiente e de explicar e manipular fenômenos motivaram o desenvolvimento da ciência, filosofia, mitologia, religião e outros campos de estudo da humanidade.",
+        "history": "Contexto historico para: \"o que são seres humanos?\""
+      },
+      "timestamp": "2026-06-21T17:31:18.211Z"
+    },
+    "date": "2026-06-21T17:31:18.217Z"
+  },
+  {
+    "prompt": "como criar um aplicativo apartir do termux?",
+    "response": {
+      "prompt": "como criar um aplicativo apartir do termux?",
+      "agents": {
+        "programming": "Codigo sugerido para: \"como criar um aplicativo apartir do termux?\"",
+        "creative": "Ideias criativas para: \"como criar um aplicativo apartir do termux?\"",
+        "business": "Sugestoes de negocio para: \"como criar um aplicativo apartir do termux?\"",
+        "multimedia": "Ideia de video/audio para: \"como criar um aplicativo apartir do termux?\"",
+        "search": "Nenhum resumo disponivel no momento.",
+        "history": "Contexto historico para: \"como criar um aplicativo apartir do termux?\""
+      },
+      "timestamp": "2026-06-21T17:32:47.400Z"
+    },
+    "date": "2026-06-21T17:32:47.409Z"
+  },
+  {
+    "prompt": "como criar um jogo?",
+    "response": {
+      "prompt": "como criar um jogo?",
+      "agents": {
+        "resposta_ia": "Criar um jogo pode ser um processo emocionante e desafiador, envolvendo várias etapas, desde a concepção inicial até a implementação final. Aqui está um guia passo a passo para ajudá-lo a criar um jogo:\n\n**1. Conceito e Ideia**\n\n* Defina o tipo de jogo que você deseja criar (plataforma, aventura, estratégia, etc.)\n* Desenvolva uma ideia única e interessante para o seu jogo\n* Pense nos objetivos do jogador, desafios e recompensas\n\n**2. Planejamento e Design**\n\n* Crie um documento de design de jogo (GDD) que descreva:\n + História e cenário do jogo\n + Personagens e habilidades\n + Mecânicas de jogo (controles, física, etc.)\n + Níveis e fases\n + Sistema de pontuação e progressão\n* Desenvolva um cronograma e um orçamento para o projeto\n\n**3. Escolha da Tecnologia**\n\n* Selecione uma linguagem de programação adequada para o seu jogo (C++, Java, Python, etc.)\n* Escolha um motor de jogo (Unity, Unreal Engine, Godot, etc.) ou crie o seu próprio\n* Defina as ferramentas de desenvolvimento necessárias (editores de código, ferramentas de design, etc.)\n\n**4. Desenvolvimento**\n\n* Comece a criar os ativos do jogo (gráficos, sons, música, etc.)\n* Implemente as mecânicas de jogo e os controles\n* Desenvolva os níveis e fases do jogo\n* Teste e itere o jogo para garantir que ele seja divertido e funcionar corretamente\n\n**5. Testes e Depuração**\n\n* Teste o jogo em diferentes plataformas e dispositivos\n* Identifique e corrija bugs e problemas de desempenho\n* Ajuste as dificuldades e os níveis de desafio do jogo\n\n**6. Polimento e Finalização**\n\n* Adicione efeitos visuais e sonoros para melhorar a experiência do jogador\n* Implemente menus, opções e outros recursos de interface do usuário\n* Certifique-se de que o jogo esteja estável e funcionando corretamente\n\n**7. Lançamento e Distribuição**\n\n* Prepare o jogo para lançamento em diferentes plataformas (PC, console, móvel, etc.)\n* Crie um trailer e materiais de marketing para promover o jogo\n* Distribua o jogo através de canais de venda online (Steam, App Store, Google Play, etc.)\n\n**8. Pós-Lançamento e Manutenção**\n\n* Monitore as críticas e feedback dos jogadores\n* Corrija bugs e problemas de desempenho\n* Adicione novos conteúdos e recursos ao jogo para manter os jogadores engajados\n\nLembre-se de que criar um jogo é um processo contínuo e pode levar tempo e esforço para alcançar o sucesso. Mas com dedicação e paixão, você pode criar um jogo incrível que agrade aos jogadores!",
+        "search": "Jogo é toda e qualquer atividade em que exista a figura do jogador e regras que podem ser para ambiente restrito ou livre. Geralmente os jogos têm poucas regras e estas tendem a ser simples. Sua presença é importante em vários aspectos, entre eles a regra define o início e fim do jogo. Pode envolver dois ou mais jogando entre si como adversários ou cooperativamente com grupos de adversários. É importante que um jogo tenha adversários interagindo e como resultado de interação exista um vencedor e um perdedor."
+      },
+      "timestamp": "2026-06-21T17:48:01.577Z"
+    },
+    "date": "2026-06-21T17:48:01.596Z"
+  },
+  {
+    "prompt": "o que é o universo?",
+    "response": {
+      "prompt": "o que é o universo?",
+      "agents": {
+        "resposta_ia": "**O Universo: Um Mistério que Ainda Estamos Descobrindo**\n\nOlá! É um prazer conversar com você sobre um dos tópicos mais fascinantes da história: o universo! O universo é um conceito amplo e complexo que tem sido estudado por cientistas, filósofos e pensadores ao longo dos séculos.\n\n**Definição**\n\nO universo é o conjunto de todas as coisas que existem, incluindo matéria, energia, espaço e tempo. É o todo que abrange tudo o que conhecemos e tudo o que ainda não conhecemos. O universo é o palco onde todas as leis físicas, químicas e biológicas são aplicadas, e é o lar de todos os seres vivos e não vivos que existem.\n\n**Características do Universo**\n\nAqui estão algumas das principais características do universo:\n\n* **Infinitude**: O universo é infinito em tamanho e idade, o que significa que não tem começo ou fim.\n* **Expansão**: O universo está em constante expansão, o que significa que as galáxias e os objetos celestes estão se afastando uns dos outros.\n* **Matéria e Energia**: O universo é composto por matéria e energia, que estão em constante interação.\n* **Espaço e Tempo**: O universo é governado pelas leis do espaço e do tempo, que determinam a forma como os objetos se movem e interagem.\n\n**Estrutura do Universo**\n\nA estrutura do universo é composta por várias camadas, incluindo:\n\n* **Galáxias**: As galáxias são grandes conjuntos de estrelas, planetas e outros objetos celestes que estão unidos pela gravidade.\n* **Agrupamentos de Galáxias**: As galáxias estão agrupadas em conjuntos maiores, chamados de agrupamentos de galáxias.\n* **Superagrupamentos**: Os agrupamentos de galáxias estão unidos em superagrupamentos, que são as maiores estruturas do universo.\n\n**Conclusão**\n\nO universo é um mistério que ainda estamos descobrindo, e há muito que aprender sobre ele. A partir da ciência e da observação, podemos entender melhor a estrutura e a evolução do universo, e descobrir novos segredos sobre o nosso lugar no cosmos. Espero que essa explicação tenha sido útil e interessante! Se tiver mais perguntas, sinta-se à vontade para perguntar.",
+        "search": "Universo é tudo o que existe fisicamente, a soma do espaço e do tempo e as mais variadas formas de matéria, como planetas, estrelas, galáxias e os componentes do espaço intergaláctico. O termo Universo pode ser usado em sentidos contextuais ligeiramente diferentes, denotando conceitos como o cosmo, o mundo ou a natureza. O universo observável tem de raio cerca de 46 bilhões de anos-luz. A observação científica do Universo levou a inferências de suas fases anteriores. Estas observações sugerem que o Universo é governado pelas mesmas leis físicas e constantes durante a maior parte de sua extensão e história. A teoria do Big Bang é o modelo cosmológico prevalente que descreve como o Universo evoluiu desde os primeiros 10−44 segundos até hoje. Observações de supernovas têm mostrado que o Universo está se expandindo a uma velocidade acelerada."
+      },
+      "timestamp": "2026-06-21T17:49:25.761Z"
+    },
+    "date": "2026-06-21T17:49:25.767Z"
+  }
+]

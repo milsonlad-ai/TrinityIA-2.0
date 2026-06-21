@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<title>Trinity AI</title>
+</head>
+<body>
+<h1>Trinity AI - Painel</h1>
+<input id="prompt" placeholder="Digite sua mensagem">
+<button onclick="enviar()">Enviar</button>
+<pre id="resposta"></pre>
+
+<script src="/socket.io/socket.io.js"></script>
+<script>
+const socket = io();
+function enviar(){
+    const valor = document.getElementById('prompt').value;
+    socket.emit('prompt', valor);
+}
+socket.on('resposta', (dados) => {
+    document.getElementById('resposta').textContent = JSON.stringify(dados, null, 2);
+});
+</script>
+</body>
+</html>
