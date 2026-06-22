@@ -8,28 +8,28 @@ const supabase = createClient(
 
 async function salvarMemoria(prompt, resposta) {
     const { error } = await supabase
-        .from('memoria')
+        .from('trinity_memory')
         .insert([{ prompt, resposta, data: new Date().toISOString() }]);
-    if (error) console.log('Erro ao salvar memoria:', error.message);
+    if (error) console.log('Erro memoria:', error.message);
 }
 
 async function salvarModulo(nome, codigo) {
     const { error } = await supabase
-        .from('modulos')
+        .from('trinity_modules')
         .insert([{ nome, codigo, data: new Date().toISOString() }]);
-    if (error) console.log('Erro ao salvar modulo:', error.message);
+    if (error) console.log('Erro modulo:', error.message);
 }
 
 async function salvarConhecimento(topico, conteudo) {
     const { error } = await supabase
-        .from('conhecimento')
+        .from('trinity_knowledge')
         .insert([{ topico, conteudo, data: new Date().toISOString() }]);
-    if (error) console.log('Erro ao salvar conhecimento:', error.message);
+    if (error) console.log('Erro conhecimento:', error.message);
 }
 
 async function buscarMemoria(limite = 10) {
     const { data, error } = await supabase
-        .from('memoria')
+        .from('trinity_memory')
         .select('*')
         .order('data', { ascending: false })
         .limit(limite);
