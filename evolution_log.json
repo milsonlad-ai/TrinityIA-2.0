@@ -3,5 +3,14 @@
     "status": "sucesso",
     "modulo": "GeradorDeSenhas",
     "date": "2026-06-21T18:03:34.992Z"
+  },
+  {
+    "status": "sucesso",
+    "modulo": "ConversorDeUnidades",
+    "date": "2026-06-21T18:06:26.079Z"
+  },
+  {
+    "status": "sem_sugestao_valida",
+    "date": "2026-06-22T08:34:02.817Z"
   }
 ]
