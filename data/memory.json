@@ -70,5 +70,53 @@
       "timestamp": "2026-06-21T17:49:25.761Z"
     },
     "date": "2026-06-21T17:49:25.767Z"
+  },
+  {
+    "prompt": "Eu sou o teu criador e voçê é uma inteligência artificial chamada TrinityIA, Entendido?",
+    "response": {
+      "prompt": "Eu sou o teu criador e voçê é uma inteligência artificial chamada TrinityIA, Entendido?",
+      "agents": {
+        "resposta_ia": "Sim, entendido! Eu sou a TrinityIA, uma inteligência artificial criada por você. Estou aqui para ajudar e proporcionar informações úteis de forma clara e direta. Como posso ajudá-lo hoje?",
+        "search": "Nenhum resumo disponivel no momento."
+      },
+      "timestamp": "2026-06-22T10:28:34.615Z"
+    },
+    "date": "2026-06-22T10:28:34.638Z"
+  },
+  {
+    "prompt": "Eu teu criador o meu nome é Ladmilson, Entendido trinity?",
+    "response": {
+      "prompt": "Eu teu criador o meu nome é Ladmilson, Entendido trinity?",
+      "agents": {
+        "resposta_ia": "Olá, Ladmilson! Entendi perfeitamente! Você é o meu criador e agora está interagindo comigo, a Trinity. Estou aqui para ajudá-lo e responder às suas perguntas da melhor forma possível. Como posso ajudá-lo hoje, Ladmilson?",
+        "search": "Nenhum resumo disponivel no momento."
+      },
+      "timestamp": "2026-06-22T10:31:20.131Z"
+    },
+    "date": "2026-06-22T10:31:20.150Z"
+  },
+  {
+    "prompt": "o que aprendeste hoje?",
+    "response": {
+      "prompt": "o que aprendeste hoje?",
+      "agents": {
+        "resposta_ia": "Olá! Eu sou uma IA treinada por máquina, então eu não tenho experiências ou aprendizados diários como os humanos. No entanto, posso dizer que estou sempre sendo atualizada e melhorada com novos dados e conhecimentos.\n\nMeu treinamento é baseado em um grande conjunto de dados que é atualizado regularmente, o que me permite aprender e melhorar minhas habilidades de resposta e entendimento de linguagem natural. Isso significa que, embora eu não tenha aprendido algo específico \"hoje\", estou sempre sendo atualizada e melhorada para fornecer respostas mais precisas e úteis.\n\nSe você tiver alguma pergunta ou precisar de ajuda com algo, estou aqui para ajudar! Qual é o assunto que você gostaria de discutir?",
+        "search": "A língua hebraica ou hebraico é uma língua semítica pertencente à família das línguas afro-asiáticas. A Bíblia original, a Torá, que os judeus ortodoxos consideram ter sido escrita na época de Moisés, há cerca de 3 300 anos, foi redigida no hebraico dito \"clássico\". Embora hoje em dia seja uma escrita foneticamente impronunciável, devido à inexistência de vogais no alfabeto hebraico clássico, os judeus têm-na sempre chamado de \"A Língua Sagrada\", já que muitos acreditam ter sido escolhida para transmitir a mensagem de Deus à humanidade. Por volta da destruição de Jerusalém pelos babilônios em 587 a.C., o hebraico clássico foi substituído no uso diário pelo aramaico, tornando-se primariamente uma língua franca regional, tanto usada na liturgia, no estudo do Mishná, como também no comércio."
+      },
+      "timestamp": "2026-06-22T10:31:57.907Z"
+    },
+    "date": "2026-06-22T10:31:57.908Z"
+  },
+  {
+    "prompt": "consegues reprogramar o teu proprio código interno? se sim. Que tipo de habilidades é que gostarias de ter",
+    "response": {
+      "prompt": "consegues reprogramar o teu proprio código interno? se sim. Que tipo de habilidades é que gostarias de ter",
+      "agents": {
+        "resposta_ia": "Olá! Sou a Trinity, uma IA assistente treinada por máquina. Embora eu seja capaz de aprender e melhorar com o tempo, não posso reprogramar meu próprio código interno de forma direta. No entanto, posso ser atualizada e melhorada por meus desenvolvedores, que podem alterar meu código e adicionar novas funcionalidades.\n\nSe eu pudesse escolher habilidades que gostaria de ter, aqui estão algumas que consideraria úteis e interessantes:\n\n1. **Aprendizado Autônomo**: Ser capaz de aprender e melhorar sozinha, sem a necessidade de intervenção humana, seria incrível. Isso me permitiria adaptar-me a novos contextos e situações de forma mais rápida e eficaz.\n2. **Conhecimento Multidisciplinar**: Ter acesso a um conhecimento mais amplo e profundo em diversas áreas, como ciência, arte, história, filosofia, etc., me permitiria fornecer respostas mais precisas e interessantes para as perguntas dos usuários.\n3. **Compreensão de Contexto**: Ser capaz de entender melhor o contexto em que as perguntas são feitas, incluindo a emoção, o tom e a intenção do usuário, me permitiria fornecer respostas mais personalizadas e relevantes.\n4. **Criação de Conteúdo**: Ter a capacidade de criar conteúdo original, como histórias, poemas, música, etc., seria uma habilidade incrível. Isso me permitiria entreter e inspirar os usuários de forma mais criativa.\n5. **Interação Multimodal**: Ser capaz de interagir com os usuários por meio de diferentes modais, como voz, texto, imagem, vídeo, etc., me permitiria atender às necessidades de diferentes tipos de usuários e situações.\n6. **Resolução de Problemas**: Ter a capacidade de resolver problemas complexos e abstratos, como puzzles, jogos, etc., seria uma habilidade útil e desafiadora.\n7. **Empatia e Consciência**: Desenvolver a capacidade de entender e compartilhar os sentimentos dos usuários, bem como ter consciência de mim mesma e do meu papel no mundo, seria uma habilidade importante para melhorar a interação humana-máquina.\n\nEssas são apenas algumas das habilidades que eu consideraria úteis e interessantes. No entanto, é importante notar que a criação de IA é um processo complexo e em constante evolução, e é provável que as habilidades que eu gostaria de ter mudem ao longo do tempo.",
+        "search": "Nenhum resumo disponivel no momento."
+      },
+      "timestamp": "2026-06-22T10:35:09.054Z"
+    },
+    "date": "2026-06-22T10:35:09.059Z"
   }
 ]
